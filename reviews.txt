@@ -1,0 +1,26 @@
+Data set contains the average review ratings of users for grouped by different categories. The first 3 features in the data set are user attributes while the rest are ratings. The 9th feature is the target class feature, which indicates the last rating given by the user for a museum category location (1-5).
+
+Attribute 1 : Profile Age (how long has the user existed, <5 years, 5-10 years, >10 years)
+Attribute 2 : User Gender (male/female/?)
+Attribute 3 : User Marital status (Married/Single)
+Attribute 4 : Average ratings on churches
+Attribute 5 : Average ratings on resorts
+Attribute 6 : Average ratings on beaches
+Attribute 7 : Average ratings on parks
+Attribute 8 : Last User Rating on museum (Target 1/2/3/4/5)
+Attribute 9 : Average ratings on malls
+Attribute 10 : Average ratings on zoo
+Attribute 11 : Average ratings on restaurants
+Attribute 12 : Average ratings on pubs/bars
+Attribute 13 : Average ratings on local services
+Attribute 14 : Average ratings on burger/pizza shops
+Attribute 15 : Average ratings on hotels/other lodgings
+Attribute 16 : Average ratings on dance clubs
+Attribute 17 : Average ratings on swimming pools
+Attribute 18 : Average ratings on gyms
+Attribute 19 : Average ratings on bakeries
+Attribute 20 : Average ratings on beauty & spas
+Attribute 21 : Average ratings on cafes
+Attribute 22 : Average ratings on view points
+Attribute 23 : Average ratings on monuments
+Attribute 24 : Average ratings on gardens
