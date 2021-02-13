@@ -1,4 +1,4 @@
-Data set contains the average review ratings of users for grouped by different categories. The first 3 features in the data set are user attributes while the rest are ratings. The 9th feature is the target class feature, which indicates the last rating given by the user for a museum category location (1-5).
+Data set contains the average review ratings of users for grouped by different categories. The first 3 features in the data set are user attributes while the rest are ratings. The 8th feature is the target class feature, which indicates the last rating given by the user for a museum category location (1-5).
 
 Attribute 1 : Profile Age (how long has the user existed, <5 years, 5-10 years, >10 years)
 Attribute 2 : User Gender (male/female/?)
